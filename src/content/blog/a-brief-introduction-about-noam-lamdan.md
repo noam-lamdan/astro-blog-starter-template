@@ -1,7 +1,7 @@
 ---
-title: "Using MDX"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jun 01 2024"
+title: "A Brief Introduction About Noam Lamdan"
+description: "Noam Lamdan is a real estate sales representative based in Toronto with more than 20 years of experience."
+pubDate: "Oct 29 2025"
 heroImage: "/blog-placeholder-5.jpg"
 ---
 
