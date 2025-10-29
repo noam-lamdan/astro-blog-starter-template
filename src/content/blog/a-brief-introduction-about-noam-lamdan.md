@@ -2,7 +2,7 @@
 title: "A Brief Introduction About Noam Lamdan"
 description: "Noam Lamdan is a real estate sales representative based in Toronto with more than 20 years of experience."
 pubDate: "Oct 29 2025"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "https://blog.noamlamdan-ca-664.workers.dev/a-brief-introduction-about-noam-lamdan.jpg"
 ---
 
 With two decades of experience in real estate, Noam Lamdan has built a career in residential sales and market analysis.
