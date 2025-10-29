@@ -22,7 +22,7 @@ Noam Lamdan holds a Bachelor’s degree in Business Administration from the Univ
 
 ## Expertise in Real Estate
 
-![blog placeholder]([/blog-placeholder-about.jpg](https://blog.noamlamdan-ca-664.workers.dev/Screenshot_235.jpg))
+![Noam Lamdan - Toronto, Ontario, Canada]([/blog-placeholder-about.jpg](https://blog.noamlamdan-ca-664.workers.dev/Screenshot_235.jpg)
 
 At Maple Crest Realty, [Noam Lamdan](https://www.behance.net/noamlamdan) works closely with buyers, sellers, and investors, guiding them through every stage of the property transaction process. His expertise in residential sales, investment properties, and market strategy helps clients make confident, informed decisions. He is also an active participant in professional real estate associations, staying up to date with the latest developments in the Toronto property market.
 
