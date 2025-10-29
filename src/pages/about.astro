@@ -1,14 +1,19 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
-<Layout
-	title="About Noam Lamdan"
-	description="Noam Lamdan is a real estate sales representative based in Toronto with more than 20 years of experience."
-	pubDate={new Date('October 29 2025')}
-		heroImage="https://blog.noamlamdan-ca-664.workers.dev/noam-lamdan.jpg"
->
-	<style>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>About — Noam Lamdan | Toronto Real Estate</title>
+  <meta name="description" content="About Noam Lamdan — 20+ years helping buyers and sellers in Toronto. Expertise in residential sales, market analysis, and community work.">
+  <meta name="author" content="Noam Lamdan">
+  <style>
     :root{--accent:#0b74de;--muted:#666;--bg:#f7f9fb}
     *{box-sizing:border-box}
     body{font-family:Inter,system-ui,Arial,sans-serif;margin:0;background:var(--bg);color:#222}
@@ -167,5 +172,7 @@ import Layout from '../layouts/BlogPost.astro';
 
     <footer>
       <div style="font-size:13px;color:var(--muted)">© Noam Lamdan • Maple Crest Realty — Trusted Toronto real estate guidance</div>
-
-</Layout>
+    </footer>
+  </div>
+</body>
+</html>
